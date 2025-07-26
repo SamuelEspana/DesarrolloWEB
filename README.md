@@ -6,4 +6,4 @@ En esta hoja de trabajo se nos dejo desarrollar una pagina web con html puro par
 ESTUDIANTE: Samuel Estuardo España Son
 CARNET: 9490-22-11789
 
-Enlace a Pagina publicada:
+Enlace a Pagina publicada:https://tiny-daffodil-69b54a.netlify.app/
