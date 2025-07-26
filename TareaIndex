@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hoja de trabajo 1</title>
+</head>
+<body>
+    <CENTER>
+        <h1>Laguna Brava <br>En Huehuetenango</h1>
+        <p><font size="4">¿Qué es Laguna Brava y dónde se ubica? <br>Laguna Brava, también conocido como Yolnabaj, Yolnajab, u Ownajab, es el segundo lago más grande en Guatemala y está ubicada en el municipio de Nentón Huehuetenango. La laguna tiene ocho kilómetros de largo y en las partes más hondas, hasta cien metros de profundidad. Forma parte del Parque Nacional Lagunas de Montebello, una serie de lagos vecinos en Chiapas México.
+            <br> ¿Por qué visitar a Laguna Brava? <br>Laguna Brava cuenta con aproximadamente trescientos mil litros de agua turquesa centelleante, una cascada y tres lindos cenotes. Aquí la naturaleza luce más bella que nunca.
+        Todas las personas que viajan a Laguna Brava se entusiasman por los baños refrescantes, el color del agua, los tours en lancha de remo, las estrellas, etc. etc.  </font></p>
+
+        <h3><font size="4">Cómo llegar a Laguna Brava</font></h3>
+        <p><font size="4">
+            Puedes llegar a la laguna por medio de tres comunidades diferentes, las cuales sirven como puertas hacia la misma. Son, El Aguacate, Yalambojoch, y San José Frontera (también conocido como San José Yulaurel). Te sugiero que sigas leyendo, para ver cuál punto te queda mejor.<br>
+            </font>
+        </p>
+        <h3><font size="4">Costos</font></h3>
+        <p><font size="4">
+            Entrada: Q30 por persona </br>
+Cabañas: Q100 por persona por noche </br>
+Alquiler de carpas: Q25 por persona </br>
+Camioneta hasta el parqueo: Q300 ida y vuelta (tendrás que caminar unos 800 metros más para llegar a la orilla de la laguna) </br>
+Camioneta hasta la orilla de la laguna: Q500 ida y vuelta<br>
+            </font>
+        </p>
+    </CENTER><br>
+
+    <blockquote>
+    <h2><b><font size="5">Índice</font></b></h2>
+    <hr>
+    <ul>
+        <li><font size="4"><a href="#Galeria">Galería de imágenes</a></font></li><br>
+        
+        <li><font size="4"><a href="#Itinerario">Itinerario</a></font>
+        <ol type="a">
+            <li><font size="3"><a href="#hora1">8:00 AM - Entrada</a></font></li>
+            <li><font size="3"><a href="#hora2">10:00 AM - Senderismo</a></font></li>
+            <li><font size="3"><a href="#hora3">11:00 AM - Actividades Acuaticas</a></font></li>
+            <li><font size="3"><a href="#hora4">1:00 PM - Almuerzo</a></font></li>
+            <li><font size="3"><a href="#hora5">2:00 PM - Visitar Cenotes</a></font></li>
+            <li><font size="3"><a href="#hora6">4:00 PM - Kayak</a></font></li>
+            <li><font size="3"><a href="#hora7">6:30 PM - Cena</a></font></li>
+        </ol>
+        </li><br>
+
+        <li><font size="4"><a href="#Actividades">Actividades</a></font></li>
+    </ul>
+    <hr>
+    </blockquote>
+
+    <center>
+        <h2 id="Galeria"><font size="6"> Galeria de Imágenes</font></h2>
+        <table align="center" border="0" cellpadding="5" cellspacing="5">
+            <tr>
+                <td><img width="350" src="img/imagen1.jpg" alt=""></td>
+                <td rowspan="2"><img width="380" src="img/imagen2.jpg" alt=""></td>
+                <td><img width="350" src="img/imagen3.jpg" alt=""></td>
+            </tr>
+            <tr>
+                <td><img width="350" src="img/imagen4.jpg" alt=""></td>
+                <td><img width="350" src="img/imagen5.jpg" alt=""></td>
+            </tr>
+        </table>
+
+        <h2 id="Itinerario"><font size="6">Itinerario Recomendado</font></h2>
+        <p><font size="4">Aquí te dejamos algunas recomendaciones para tu visita:</font></p><br>
+    </center>
+
+    <table border="1" cellpadding="10" cellspacing="0" align="center">
+    <tr>
+      <th>Hora</th>
+      <th>Actividad</th>
+    </tr>
+
+    <tr id="hora1">
+      <td><font size="4">08:00 AM</font></td>
+      <td>
+        <font size="4">Entrada</font>
+        <ul>
+          <li>Ingreso al la Laguna.</li>
+          <li>Te recomendamos Recorrecorrer los senderos principales para familiaziarte con los caminos.</li>
+          <li>Has tu check in para poder Encontrar tu habitación.</li>
+        </ul>
+      </td>
+    </tr>
+
+    <tr id="hora2">
+      <td><font size="4">10:00 AM</font></td>
+      <td>
+        <font size="4">Senderismo</font>
+        <ul>
+          <li>Contamos con muchas rutas de senderimos, todas te guiaran a un lugar magico diferente.</li>
+          <li>Puedes solicitar tu mapa en recepción para poder decidir que sendero te llama más la atención</li>
+        </ul>
+      </td>
+    </tr>
+
+    <tr id="hora3">
+      <td><font size="4">11:00 AM</font></td>
+      <td>
+        <font size="4">Actividades Acuaticas</font>
+        <ul>
+          <li>Te recomendamos disfrutar de nuestras diferentes actividades acuaticas, este es el mejor horario ya que el Sol te ayudara con el frio del agua.</li>
+          <li>No olvides revisar las recomendaciones a la orilla del lago, para disfrutar sin preocupación.</li>
+        </ul>
+      </td>
+    </tr>
+
+    <tr id="hora4">
+      <td><font size="4">1:00 PM</font></td>
+      <td>
+        <font size="4">Almuerzo</font>
+        <ul>
+          <li>Contamos con dos Restaurantes dentro de nuestras instalaciones, ambos con opciones deliciosas.</li>
+          <li>Recuerda Solicitar los menus en Recepción si deseas conocer más sobre cada uno.</li>
+        </ul>
+      </td>
+    </tr>
+
+    <tr id="hora5">
+      <td><font size="4">2:00 PM</font></td>
+      <td>
+        <font size="4">Visitar Cenotes</font>
+        <ul>
+          <li>Contamos con 3 Cenotes:</li>
+          <ul>
+            <li>Laguna Brava 1</li>
+            <li>Cenote Azul</li>
+            <li>Cenote Turquesa</li>
+            <li>Cualquiera de estas opciones es muy buena para disfrutar por la tarde.</li>
+          </ul>
+        </ul>
+      </td>
+    </tr>
+
+    <tr id="hora6">
+      <td><font size="4">4:00 PM</font></td>
+      <td>
+        <font size="4">Kayak</font>
+        <ul>
+          <li>Contamos con un recorrido de Kayak en el Lago.</li>
+          <li>Recomendamos tomarlo a esta hora ya que podras ver el hermoso atardecer.</li>
+        </ul>
+      </td>
+    </tr>
+
+    <tr id="hora7">
+      <td><font size="4">6:30 PM</font></td>
+      <td>
+        <font size="4">Cena</font>
+        <ul>
+          <li>Apartir de la 6:30pm se empieza a servir la cena en nuestros restaurantes</li>
+          <li>Recuerda que la cena es cortecia de la casa, no olvides disfrutarla.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+
+  <br><br>
+
+  <center>
+    <h2 id="Actividades"><font size="6">Tabla de Actividades por Plaza</font></h2>
+
+    <table border="1" cellpadding="5" cellspacing="0" align="center">
+      <tr>
+        <th>Cenotes</th>
+        <th>Actividades Acuaticas</th>
+        <th>Restaurantes</th>
+        <th>Senderismo</th>
+      </tr>
+      <tr>
+        <td>Cenote Azul</td>
+        <td>Natación</td>
+        <td>Restaurante Los Charcos</td>
+        <td>Sendero Ruta 1</td>
+      </tr>
+      <tr>
+        <td>Cenote Turquesa</td>
+        <td>Kayak</td>
+        <td>Restaurante Los Pinitos</td>
+        <td>Sendero Ruta 2</td>
+      </tr>
+      <tr>
+        <td>Laguna Brava</td>
+        <td>Navegación en Bote</td>
+        <td></td>
+        <td>Sendero Ruta 3</td>
+      </tr>
+    </table>
+  </center><br><br>
+
+    <footer>
+    <center>
+        <hr>
+        <p >
+        <font color="gray" size="4">
+            Samuel Estuardo España Son<br>
+            Carnet: 9490-22-11789
+        </font>
+        </p>
+    </center>
+  </footer>
+</body>
+</html>
